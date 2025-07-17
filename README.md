@@ -32,6 +32,8 @@ This webpage works smoothly across both desktop and mobile screens using flexbox
 - *CSS3*
 - No frameworks or libraries used
 
+FINAL PAGE VIEW:
+<img width="1883" height="888" alt="image" src="https://github.com/user-attachments/assets/20548aee-a890-403b-99e1-f08e8c694c82" />
 
 ## 🛑 Notes
 
